@@ -30,43 +30,29 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global low-code development technologies market is estimated at **$25B–$35B+** (projected by Gartner to exceed **$58B by 2029** at a ~14% CAGR). The sector is **moderately fragmented**—while enterprise mega-caps (Microsoft Power Apps) and established leaders (OutSystems, Mendix, Appian) dominate large corporate IT footprints, the market does not have a single winner-take-all monopoly due to wide fragmentation across developer-centric tools (Retool), specialized operational platforms (Quickbase, Caspio), and thriving self-hosted open-source alternatives.
 
 ## SaaS/Hosted Platforms
 
-
-
-| Product | Description | Pricing | Free Tier Limit |
-
-| :--- | :--- | :--- | :--- |
-
-| **[Retool](https://retool.com/)** | The category-defining internal tool builder with AI-native app generation, workflows, and self-hosting options. | **Free**: 5 users. **Team**: $10/builder/mo + $5/internal user/mo. **Business**: $50/builder/mo + $15/internal user/mo. **Enterprise**: custom . | **Free plan**: Up to 5 users, 500 workflow runs/month, 250 AI credits/month, unlimited web apps . |
-
-| **[Power Apps (Microsoft)](https://powerapps.microsoft.com/)** | Microsoft's low-code platform integrated with the Power Platform and Dataverse. | **Premium**: $29.90/user/month (AU pricing) for unlimited apps, 500 AI Builder credits, 250 MB database . | **Power Apps Developer Plan**: Free for development/testing, includes Dataverse Developer environment and premium connectors. Not for production use. |
-
-| **[OutSystems](https://www.outsystems.com/)** | Enterprise high-performance low-code platform with full DevOps automation and multi-app portfolios. | **Free**: up to 100 end users. **Standard**: from €1,250/month (approx. $1,350). **Enterprise**: custom . | **Free tier**: 1 app, up to 100 end users, one environment (dev/test/prod combined), community support . |
-
-| **[Mendix](https://www.mendix.com/)** | Enterprise low-code with multi-app support and Siemens ecosystem alignment. | **Free**: $0. **Standard One App**: $1,090/month. **Standard Unlimited**: $2,725/month. **Premium**: custom . | **Free tier**: 1 app, limited users, Mendix Cloud hosting, community support . |
-
-| **[Appian](https://appian.com/)** | Enterprise process automation and low-code platform with strong workflow capabilities. | Per-user, per-application pricing. Standard/Advanced/Premium tiers available; contact sales for quotes . | **Appian Community Edition**: Free for developers, 1 app, limited users, non-production use. |
-
-| **[Quickbase](https://www.quickbase.com/)** | No-code platform focused on operational workflows and data management. | **Pave Free**: $0. **Team**: $25/mo (120 credits). **Department**: $300/mo (1,800 credits) . | **Free plan**: 1 app, 1 builder, up to 3 users, 100 credits (then $20 per 100 credits) . |
-
-| **[Caspio](https://www.caspio.com/)** | No-code database app builder with **no per-user fees**—priced by records and features. | **Team**: $15/mo (prepaid) / on-demand. **Business/Enterprise**: scale with records . | **Free trial**: 14 days with full feature access. No permanent free tier . |
-
-| **[Betty Blocks](https://www.bettyblocks.com/)** | No-code platform for business apps with a focus on speed and enterprise governance. | Custom pricing; typically enterprise-tier. | **Free trial**: 14 days. No permanent free tier. |
-
-| **[WaveMaker](https://www.wavemaker.com/)** | Low-code platform for professional developers with full-stack app generation. | **Enterprise-only**: ~$24,000/year per application (AWS hosting included) . | **30-day free trial**. No free tier—**$99 developer license has been withdrawn** . |
-
-
+| Product | Size / Valuation / Revenue | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Power Apps (Microsoft)](https://powerapps.microsoft.com/)** | **~$3.1T Market Cap** (Parent Microsoft; Power Platform generates multi-billion $ revenue) | Microsoft's enterprise low-code platform deeply integrated into Microsoft 365, Azure, and Dataverse. | Starts at **$20/user/month** (Power Apps Premium for unlimited apps); **$12/user/month** (Premium tier with 2,000+ seat volume minimum). | **Power Apps Developer Plan**: Free forever for 1 developer environment; includes Dataverse & premium connectors (strictly non-production dev/testing). |
+| **[Mendix](https://www.mendix.com/)** | **$100M+ ARR** (Acquired by Siemens AG for **$730M / €600M**; Siemens Market Cap ~$150B+) | Enterprise low-code platform with multi-cloud deployment and industrial Siemens ecosystem alignment. | Starts at **$1,090/month** (Standard One App tier, billed annually); **$2,725/month** (Standard Unlimited Apps). | **Free Edition**: Free forever for 1 app environment on Mendix Cloud, up to 5 internal users, 1 GB storage, non-SLA community support. |
+| **[OutSystems](https://www.outsystems.com/)** | **€500M+ ($500M+) Revenue** (Peak private valuation **$9.5B**) | High-performance enterprise low-code platform offering full-stack DevOps and governance. | Starts at **€1,250/month** (~$1,350/month, billed annually) for single-app production workloads. | **Free Edition**: Free forever for 1 active app, up to 100 end users, single shared dev/test/production environment. |
+| **[Retool](https://retool.com/)** | **$3.2B Valuation** (Series C2; **~$120M+ ARR**) | The category-defining developer-first internal tool builder with visual UI canvas, workflows, and self-hosting. | **Free**: $0. Paid starts at **$10/builder/month + $5/user/month** (Team plan); **$50/builder/month + $15/user/month** (Business plan). | **Free plan**: Free forever for up to 5 users, includes 500 workflow runs/month, 250 AI credits/month, and unlimited web apps. |
+| **[Appian](https://appian.com/)** | **~$3.0B Market Cap** (NASDAQ: APPN; **~$850M Annual Revenue**) | Process automation and low-code platform specializing in case management, BPM, and complex workflows. | Starts at **$70/user/month** (Standard tier for departmental workflows; enterprise agreements typically require a 100-seat floor). | **Appian Community Edition**: Free forever sandbox environment for 1 developer to build/test applications (non-production use only). |
+| **[Quickbase](https://www.quickbase.com/)** | **$1.0B Valuation** (Acquired by Vista Equity Partners; **$200M+ Revenue**) | No-code/low-code platform tailored for operational data management, field operations, and reporting. | Starts at **$25/month** (Team plan, includes 120 credit allowances); Department plan starts at **$300/month** (1,800 credits). | **Pave Free Plan**: Free forever for 1 app, 1 builder, up to 3 end users, with 100 platform credits. |
+| **[Caspio](https://www.caspio.com/)** | **~$120M Revenue** (Bootstrapped / Private) | Visual relational database and application builder featuring flat fees without per-user licensing costs. | Starts at **$15/month** (prepaid Starter tier) or **$50/month** (Standard edition); pricing scales with data records rather than user seats. | **Free Trial**: 14-day free trial with access to all standard builder capabilities, full database storage, and integrations (no permanent free tier). |
+| **[WaveMaker](https://www.wavemaker.com/)** | **~$25M–$50M Revenue** (Pramati Technologies subsidiary / Private) | Low-code full-stack platform generating open-standard Angular and Java/Spring Boot code. | Starts at **$99/developer/month** (WaveMaker Online starter license); Enterprise deployments start around **~$24,000/year/app**. | **Guided Free Trial**: 30-day fully functional free trial with full studio access and cloud prototyping environment (no permanent free tier). |
+| **[Betty Blocks](https://www.bettyblocks.com/)** | **~$9M–$15M Revenue** (Historical private valuation €50M+) | Enterprise citizen-developer platform focused on business application building with strong governance. | Starts at **€1,500/month** (~$1,620/month, billed annually) for core builder platform with unlimited internal application users. | **Free Trial**: 14-day free trial with full access to sandbox studio, visual modeler, and templated components (no permanent free tier). |
 
 ## Open-Source GitHub Projects
 
